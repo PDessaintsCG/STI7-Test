@@ -12,5 +12,10 @@
         <Button Content="J'ai réussi" HorizontalAlignment="Center" Margin="0,262,0,0" VerticalAlignment="Top" Height="54" Width="132"/>
 
         <TextBox Width="200" Height="40">E.T. téléphone maison.</TextBox>
+        <TextBox Width="200" Margin="300,113,300,93">E.T. téléphone maison.</TextBox>
+        <Border BorderThickness="10" BorderBrush="Red" HorizontalAlignment="Left" Height="347" Margin="110,52,0,0" VerticalAlignment="Top" Width="618" />
+        <Button Content="Safae Ouabbou" HorizontalAlignment="Left" Margin="140,184,0,0" VerticalAlignment="Top" Height="63" Width="155" Click="Button_Click" FontSize="20" Background="Aquamarine"/>
+
+
     </Grid>
 </Window>
