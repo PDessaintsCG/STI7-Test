@@ -1,2 +1,1 @@
-# Icitte, on aime les patates
-# Non ICITTE c'est PEPSI !
+# Icitte, on aime les shorts courtes et colorées
