@@ -23,6 +23,8 @@ namespace STI7_Test
         public MainWindow()
         {
             InitializeComponent();
+
+            Console.WriteLine("Hello Phillipe Dessaint -  Comment ca va ?");
         }
     }
 }
