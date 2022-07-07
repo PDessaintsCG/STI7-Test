@@ -8,5 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox Width="200" Height="300">ICI c'est PEPSI !</TextBox>
+        <Button Content="J'ai réussi" HorizontalAlignment="Center" Margin="0,262,0,0" VerticalAlignment="Top" Height="54" Width="132"/>
+
     </Grid>
 </Window>
